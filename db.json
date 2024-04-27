@@ -32,6 +32,20 @@
       "email": "tata@gmail.com",
       "password": "1234",
       "id": 5
+    },
+    {
+      "userId": 734482,
+      "name": "aman",
+      "email": "aman@gmail.com",
+      "password": "1234",
+      "id": 6
+    },
+    {
+      "userId": 6094,
+      "name": "pawan",
+      "email": "pawan@gmail.com",
+      "password": "1234",
+      "id": 7
     }
   ],
   "products": [
