@@ -25,6 +25,13 @@
       "email": "sam@123.com",
       "password": "12345",
       "id": 4
+    },
+    {
+      "userId": 749851,
+      "name": "tata",
+      "email": "tata@gmail.com",
+      "password": "1234",
+      "id": 5
     }
   ],
   "products": [
